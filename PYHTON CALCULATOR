@@ -16,7 +16,6 @@ while True:
     print (" WELCOME TO CALCULATOR 🙏 \n ")
 
     num1 = float(input("Enter The Number:"))
-
     print(" ENTER THE OPERATOR : ")
     print("Enter + For Addition")
     print("Enter - For Subtraction")
